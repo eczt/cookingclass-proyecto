@@ -1,4 +1,6 @@
 
-public class Lista {
+public class Lista extends Ingredientes {
+	
+
 
 }
